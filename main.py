@@ -3,7 +3,7 @@ from pylatex import Document
 from pathlib import Path
 from pdf2image import convert_from_path
 import tempfile
-
+# tôi mới thay đổi
 # Hàm biên dịch LaTeX thành PDF
 def compile_latex_to_pdf(latex_code):
     try:
