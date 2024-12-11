@@ -1,2 +1,4 @@
-texlive-full
+texlive-base
+texlive-latex-base
+texlive-latex-extra
 mktexlsr
