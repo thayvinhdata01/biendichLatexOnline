@@ -1,3 +1,0 @@
-streamlit
-pylatex
-pdf2image
